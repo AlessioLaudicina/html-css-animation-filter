@@ -33,7 +33,8 @@
 
     scale: 0.5;
     transition: 0.1s;
+}
 
-
-
+.ex-6-img:hover{
+    filter: grayscale(100%);
 }
