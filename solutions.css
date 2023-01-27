@@ -20,3 +20,20 @@
     transition: all 3s;
 
 }
+
+
+
+
+.ex-5-square:hover{
+    scale: 1.1;
+    transition: 3s;
+}
+
+.ex-5-square:active{
+
+    scale: 0.5;
+    transition: 0.1s;
+
+
+
+}
