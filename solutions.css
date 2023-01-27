@@ -6,4 +6,10 @@
 }
 
 
+.ex-2-square:hover{
+    transition: all 1s;
+    width: 500px;
 
+
+
+}
