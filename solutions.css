@@ -7,9 +7,16 @@
 
 
 .ex-2-square:hover{
-    transition: all 1s;
+    transition: all 3s;
     width: 500px;
 
 
+
+}
+
+.ex-3-square:hover{
+
+    border-radius: 50%;
+    transition: all 3s;
 
 }
