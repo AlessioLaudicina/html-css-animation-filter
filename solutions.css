@@ -43,3 +43,19 @@
     transition: all 5s;
 
 }
+
+.ex-8-img:hover{
+    filter: grayscale(100%);
+    border-radius: 10%;
+    transition: all 3s;
+
+}
+
+.ex-9-img:hover{
+    filter: grayscale(100%);
+    border-radius: 10%;
+    transition: all 3s;
+    scale: 1.5;
+
+
+}
