@@ -1,7 +1,7 @@
 .ex-1-square:hover{
 
     background-color: red;
-    transition: all 1s;
+    transition: all 5s;
 
 }
 
@@ -18,15 +18,14 @@
 
     border-radius: 50%;
     transition: all 3s;
-
 }
 
 
 
 
 .ex-5-square:hover{
-    scale: 1.1;
-    transition: 3s;
+    scale: 1.5;
+    transition: 1s;
 }
 
 .ex-5-square:active{
@@ -37,4 +36,10 @@
 
 .ex-6-img:hover{
     filter: grayscale(100%);
+}
+
+.ex-7-img:hover{
+    filter: grayscale(100%);
+    transition: all 5s;
+
 }
